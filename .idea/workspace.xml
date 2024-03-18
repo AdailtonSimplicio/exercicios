@@ -4,21 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cbdbdff-eaf2-43db-ad28-fda8dfaf6834" name="Changes" comment="" />
+    <list default="true" id="8cbdbdff-eaf2-43db-ad28-fda8dfaf6834" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/AreaCircunferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Import.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Import.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Inferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Inferencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/NotacaoPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/NotacaoPonto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/PrimeiroPrograma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Temperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/TipoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/TipoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/TiposPrimitivos.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AdailtonSimplicio"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7a035cfc-6502-43bd-be3c-43f8677bf046" />
+        <option name="url" value="https://github.com/AdailtonSimplicio/exercicios.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/PrimeiroPrograma.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dkPc3ofrfTMmGr4ed4hBAKHdQC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -27,12 +65,106 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreaCircunferencia.executor": "Run",
+    "Application.Import.executor": "Run",
+    "Application.Inferencia.executor": "Run",
+    "Application.NotacaoPonto.executor": "Run",
+    "Application.PrimeiroPrograma.executor": "Run",
+    "Application.Temperatura.executor": "Run",
+    "Application.TipoString.executor": "Run",
+    "Application.TiposPrimitivos.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TipoString">
+    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Import" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Inferencia" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotacaoPonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.NotacaoPonto" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TipoString" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.TiposPrimitivos" />
+      <module name="exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TipoString" />
+        <item itemvalue="Application.Import" />
+        <item itemvalue="Application.NotacaoPonto" />
+        <item itemvalue="Application.TiposPrimitivos" />
+        <item itemvalue="Application.Inferencia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,3 +1,5 @@
+package fundamentos;
+
 /**
  * @author adailton simplcio
  * @since JDK1.0
