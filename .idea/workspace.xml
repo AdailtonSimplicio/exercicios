@@ -7,14 +7,6 @@
     <list default="true" id="8cbdbdff-eaf2-43db-ad28-fda8dfaf6834" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/AreaCircunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Import.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Import.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Inferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Inferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/NotacaoPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/NotacaoPonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Temperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/TipoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/TipoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fundamentos/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fundamentos/TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
