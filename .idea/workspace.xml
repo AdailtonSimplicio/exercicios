@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cbdbdff-eaf2-43db-ad28-fda8dfaf6834" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8cbdbdff-eaf2-43db-ad28-fda8dfaf6834" name="Changes" comment="testando sincronização">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fundamentos/Wrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AdailtonSimplicio"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
@@ -58,6 +58,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AreaCircunferencia.executor": "Run",
+    "Application.Console.executor": "Run",
     "Application.Import.executor": "Run",
     "Application.Inferencia.executor": "Run",
     "Application.NotacaoPonto.executor": "Run",
@@ -65,6 +66,7 @@
     "Application.Temperatura.executor": "Run",
     "Application.TipoString.executor": "Run",
     "Application.TiposPrimitivos.executor": "Run",
+    "Application.Wrapper.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,9 +76,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TipoString">
-    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.Import" />
+  <component name="RunManager" selected="Application.Wrapper">
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Console" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.Inferencia" />
+    <configuration name="Import" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Import" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
@@ -127,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fundamentos.TiposPrimitivos" />
+    <configuration name="Wrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Wrapper" />
       <module name="exercicios" />
       <extension name="coverage">
         <pattern>
@@ -142,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Wrapper" />
+        <item itemvalue="Application.Console" />
         <item itemvalue="Application.TipoString" />
         <item itemvalue="Application.Import" />
         <item itemvalue="Application.NotacaoPonto" />
-        <item itemvalue="Application.TiposPrimitivos" />
-        <item itemvalue="Application.Inferencia" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +168,27 @@
       <option name="presentableId" value="Default" />
       <updated>1710549184767</updated>
     </task>
+    <task id="LOCAL-00001" summary="testando sincronização">
+      <option name="closed" value="true" />
+      <created>1710731828114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710731828114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testando sincronização">
+      <option name="closed" value="true" />
+      <created>1710731949190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710731949190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testando sincronização" />
+    <option name="LAST_COMMIT_MESSAGE" value="testando sincronização" />
   </component>
 </project>
